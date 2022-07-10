@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Aula-07\Aula-07\bin\Debug\Aula-07.exe.config
+C:\Users\User\source\repos\Aula-07\Aula-07\bin\Debug\Aula-07.exe
+C:\Users\User\source\repos\Aula-07\Aula-07\bin\Debug\Aula-07.pdb
+C:\Users\User\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.exe
+C:\Users\User\source\repos\Aula-07\Aula-07\obj\Debug\Aula-07.pdb
