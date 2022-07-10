@@ -30,22 +30,22 @@ namespace Aula_07
             {
                 case 1:
                     tipo = "fogo";
-                    Console.WriteLine($"O mago atacou {ataque} vezes usando {tipo}");
+                    Console.WriteLine($"O mago atacou {ataque}X usando {tipo}");
                     break;
 
                 case 2:
                     tipo = "terra";
-                    Console.WriteLine($"O mago atacou {ataque} vezes usando {tipo}");
+                    Console.WriteLine($"O mago atacou {ataque}X usando {tipo}");
                     break;
 
                 case 3:
                     tipo = "ar";
-                    Console.WriteLine($"O mago atacou {ataque} vezes usando {tipo}");
+                    Console.WriteLine($"O mago atacou {ataque}X usando {tipo}");
                     break;
 
                 case 4:
                     tipo = "água";
-                    Console.WriteLine($"O mago atacou {ataque} vezes usando {tipo}");
+                    Console.WriteLine($"O mago atacou {ataque}X usando {tipo}");
                     break;
 
                 default:
@@ -58,7 +58,7 @@ namespace Aula_07
         public override void Defender()
         {
             defesa = random.Next(1, 6);
-            Console.WriteLine($"O mago se defendeu {defesa}x com barreiro de ar");
+            Console.WriteLine($"O mago se defendeu {defesa}X com barreiro de ar");
 
         }
     }

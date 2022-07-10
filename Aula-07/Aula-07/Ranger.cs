@@ -18,13 +18,13 @@ namespace Aula_07
         public override void Atacar()
         {
             ataque = random.Next(1, 6);
-            Console.WriteLine($"O Ranger atacou {ataque} vezes com o arco e flecha");
+            Console.WriteLine($"O Ranger atacou {ataque}X com o arco e flecha");
         }
 
         public override void Defender()
         {
             defesa = random.Next(1, 6);
-            Console.WriteLine($"O Ranger se esquivou {defesa} vezes");
+            Console.WriteLine($"O Ranger se esquivou {defesa}X");
         }
     }
 }

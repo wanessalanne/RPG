@@ -25,13 +25,13 @@ namespace Aula_07
                 ataque = random.Next(1,6);
                 resultado += ataque;
             } 
-            Console.WriteLine($"O Guerreiro atacou {resultado} com a espada");
+            Console.WriteLine($"O Guerreiro atacou {resultado}X");
         }
 
         public override void Defender()
         {
             ataque = random.Next(1, 6);
-            Console.WriteLine($"O Guerreiro defendeu {ataque} com o escudo");
+            Console.WriteLine($"O Guerreiro defendeu {ataque}X com o escudo");
 
         }
     }
